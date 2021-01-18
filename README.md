@@ -7,10 +7,10 @@ Adding your site to `barahi.space` is completely free, though there is a group o
 
 ### What should be included in your PR?
 **Title:**
-`Request for site access: <your-preferred-site-name.barahi.space`
+`Request for site access: <your-preferred-site-name>.barahi.space`
 
 **Description**
-The description template will be provided when you create a PR to this repository. Please fill out any necessary information in that description.
+The description template will be provided when you create a PR to this repository. Please fill out any necessary information in that description. Please do not forget to add the link to your current repository.
 
 **Changes**
 In your PR description add your changes to this `README.md` file by adding your site to this list of sites we have below.
